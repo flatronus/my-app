@@ -1,0 +1,15 @@
+.section{
+    grid-area: m;
+    background-color: rgb(24, 182, 221);
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+  }
+  .dialog{
+    padding: 10px;
+  }
+  .dialogs .active{
+    color: gold;
+  }
+  .message{
+    padding: 10px;
+  }
